@@ -30,7 +30,7 @@ markdown: kramdown
 theme: jekyll-theme-merlot
 gems:
   - jekyll-feed
-  - jekyll-theme-merlot
+#  - jekyll-theme-merlot
 exclude:
 #  - Gemfile
   - Gemfile.lock
